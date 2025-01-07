@@ -1,0 +1,1 @@
+ ./art_illumina -ss HS25 -i example.fasta -l 150 -f 30 -qs 36 -qs2 39 -o output_reads
